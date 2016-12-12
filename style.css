@@ -1,5 +1,5 @@
 @font-face {
-    font-family: ubuntu;
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 * {
@@ -13,7 +13,7 @@ body {
     height: 100%;
     background: #252a32;
     color: #3DB5E1  ;
-    font-family: ubuntu;
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;;
     font-size: 14pt;
 }
 
@@ -28,7 +28,7 @@ a:hover {
 }
 
 h1 {
-    font-family: ubuntu;
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;;
     font-size: 30pt;
     font-weight: normal;
 }
